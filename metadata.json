@@ -1,0 +1,7 @@
+{
+  "name": "SimpleCoin",
+  "description": "SimpleCoin is an ordinary token nothing ordinary.",
+  "symbol": "SMC",
+  "decimals": 9,
+  "image": "https://raw.githubusercontent.com/Meowmimo/simpleToken/main/image.png"
+}
